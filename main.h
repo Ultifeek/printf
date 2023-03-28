@@ -14,7 +14,9 @@ int print_cent(va_list args);
 
 /**
  * struct func - structure for specifier to print
+ *
  * @t: character to compare
+ *
  * @f: function to handle printing
  */
 
