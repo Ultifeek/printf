@@ -3,9 +3,7 @@
 /**
  * print_char - function that prints a character passed as
  * variadic argument to the standard output
- *
  * @args: variadic parameter
- *
  * Return: number of characters printed
  */
 
