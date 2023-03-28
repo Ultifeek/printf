@@ -3,6 +3,7 @@
 /**
  * print_str - function that prints a string passed as
  * variadic argument to the standard output
+ *
  * @args: variadic parameter
  * Return: number of characters printed
  */
