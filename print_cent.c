@@ -4,9 +4,7 @@
  * print_cent - function that prints a percentage sign
  * character passed as
  * variadic argument to the standard output
- *
  * @args: variadic parameter
- *
  * Return: number of characters printed
  */
 
