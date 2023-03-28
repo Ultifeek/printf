@@ -3,7 +3,9 @@
 /**
  * check_specifier - check that character is a valid specifier
  * and assign appropriate function for its printing
+ *
  * @format: the specifier (char*)
+ *
  * Return: pointer to function, if successful
  * NULL pointer if not
  */
