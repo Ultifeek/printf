@@ -1,11 +1,8 @@
 0x11. C - printf
 
-
 C Group project
 
-
 Tasks
-
 
 0. I'm not going anywhere.
 
